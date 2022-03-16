@@ -192,7 +192,7 @@ public class Test extends Application {
         // Set UI
         gridpane.setAlignment(Pos.CENTER);
         averageGrowthAllCompanies.setAlignment(Pos.TOP_LEFT);
-        averageGrowthAllCompanies.setEditable(false);
+        averageGrowthAllCompanies.setEditable(false); 
         averageGrowthSmallPEGlobal.setAlignment(Pos.TOP_LEFT);
         averageGrowthSmallPEGlobal.setEditable(false);
         averageGrowthLargePEGlobal.setAlignment(Pos.TOP_LEFT);
