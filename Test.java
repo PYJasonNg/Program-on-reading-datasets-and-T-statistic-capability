@@ -29,7 +29,7 @@ public class Test extends Application {
     private TextField getNoValuesOne = new TextField();
     private TextField getNoValuesTwo = new TextField();
     private TextField totalValues = new TextField();
-    private Button getValues = new Button("Calculate");
+    private Button getValues = new Button("Calculate"); 
 
     private TextField averageGrowthAllCompanies = new TextField();
     private TextField averageGrowthSmallPEGlobal = new TextField();
