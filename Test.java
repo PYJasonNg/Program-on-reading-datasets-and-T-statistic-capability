@@ -1,5 +1,7 @@
 package sample;
 
+# Test for class
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
